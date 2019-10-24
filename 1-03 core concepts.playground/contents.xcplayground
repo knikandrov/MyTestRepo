@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Tuples'/>
+        <page name='Challenge - Tuples'/>
+        <page name='Bools'/>
+        <page name='Scoope'/>
+        <page name='While loops'/>
+        <page name='For loops'/>
+        <page name='Switch statements'/>
+        <page name='Enum'/>
+        <page name='Functions'/>
+        <page name='Optionals'/>
+        <page name='Arrays'/>
+        <page name='Dictionary'/>
+        <page name='Sets'/>
+        <page name='Closures and Collections'/>
+        <page name='Structers'/>
+        <page name='Properties'/>
+        <page name='Methods?'/>
+        <page name='Classes vs Sruct'/>
+        <page name='Inherirance'/>
+        <page name='Initializers'/>
+        <page name='Protocols'/>
+    </pages>
+</playground>
